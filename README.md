@@ -1,2 +1,2 @@
-# PointsAlongLines
-plugin for qgis.  Plots points along line from CSV
+# CCTVMapper
+plugin for qgis that plots CCTV data
