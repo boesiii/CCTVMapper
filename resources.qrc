@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/cctv_mapper" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

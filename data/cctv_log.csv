@@ -1,0 +1,11 @@
+Pipe ID,Location,Start Manhole,End Manhole,total_pipe_length,Surveyed Length,Pipe Diameter,Pipe Material,Direction,Distance,Code,Description,Clock,Lateral Size,Grade,Comment
+P4171,somewhere,A34,A33,210.7,210.7,8,RPM,Downstream,63.8,tsc,tap saddle capped,12:00,6 inch,M0,cast iron cap
+P4171,somewhere,A34,A33,210.7,210.7,8,RPM,Downstream,142.8,tsd,tap saddle defective,11:00,6 inch,M2,reinforcement exposed
+P4176,somewhere,a30,a31,129,129,8,RPM,Upstream,53.5,tsa,tap saddle active,11:00,6 inch,M0,light flow
+P4176,somewhere,a30,a31,129,129,8,RPM,Upstream,57.7,tsc,tasp saddle capped,11:00,6 inch,M0,
+P4176,somewhere,a30,a31,129,129,8,RPM,Upstream,102.8,tfa,tap factory active,11:00,6 inch,mo,light flow
+P4595,somewhere,A31,A31A CAP,13,13,8,RPM,Upstream,8.9,tsa,tap saddle active,10:00,6 inch,M0,light flow
+P4179,somewhere,A23A,A23,79.2,79.2,8,PVC,Downstream,13.2,tfa,tap factory active,1:00,6 inch,M0,
+P4182,somewhere,a21,a22,226.6,226.6,8,pvc,Upstream,65.3,tsa,tap saddle active,11:00,6 inch,m0,heavy flow
+P4182,somewhere,a21,a22,226.6,226.6,8,pvc,Upstream,85.7,tsa,tap saddle active,11:00,6 inch,m0,
+P4182,somewhere,a21,a22,226.6,226.6,8,pvc,Upstream,198.2,tsa,tap saddle active,11:00,6 inch,m0,

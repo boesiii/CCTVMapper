@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=CCTV Mapper
+qgisMinimumVersion=3.0
+description=The plugin plots CCTV data from sanitary sewer pipe inspections
+version=0.1
+author=Ed B
+email=boesiii@yahoo.com
+
+about=This plugin plots points along lines from a CSV file by matching an ID column in CSV and a line feature ID. The point is plotted based on the digitized direction of the line (pipe) which is assumed to be upstream point to downstream point.  The CSV file needs to have specific column headings, a sample CSV file and a lines shapefile are included.  The primary purpose for its creation was for plotting sanitary sewer pipe inspection data from CCTV projects.  The resulting point file is a memory layer and will need to be saved out another type of format.
+
+tracker=https://github.com/boesiii/CCTVMapper/issues
+repository=https://github.com/boesiii/CCTVMapper
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=python
+
+homepage=https://github.com/boesiii/CCTVMapper
+category=Vector
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
