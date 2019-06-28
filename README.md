@@ -22,6 +22,5 @@ To use the plugin you will need a line layer which represents sewer pipes and a 
 * Grade
 * Comment
 
-Only a few of the columns are needed to plot the points along the pipes.  The other columns are good information to have.
-
+Only a few of the columns are needed to plot the points along the pipes.  The other columns are added as attributes to the created points.
 
